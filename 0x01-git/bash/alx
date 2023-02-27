@@ -1,2 +1,2 @@
-I am happy
-School is open
+#!/bin/bash
+echo "ALX School"
